@@ -648,11 +648,11 @@ Day 3 : 5th Dec. 2024
 		
 		file1.sh 	Created by ubuntu user 		| Group Users			| 	Public User
 		
-		Read 										Read 						Read 
+		                 Read 				          Read 				Read 
 																				
-		Write                                       Write                       Write 
+		                 Write                                   Write                       Write 
 																				
-		Execute                                     Execute                     Execute
+		                 Execute                                     Execute                     Execute
 		
 		
 		
