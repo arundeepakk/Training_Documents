@@ -181,19 +181,19 @@ Module 5: Managing Source Code – Git and GitHub
 	
 	Local Machine																					Remote Server
 	
-	Working Directory 				Staging Area				Local Repository					   Remote Repository
+	Working Directory 			 Staging Area		          Local Repository		               Remote Repository
 	
-		index.html	 --------------> index.html	 --------------> Index.html_v1.0	-----------------> 	Index.html_v1.0
-						git add 				   git commit 						  	 git push
+		index.html	 --------------> index.html	 --------------> Index.html_v1.0	-----------------> 	  Index.html_v1.0
+				git add 				   git commit 				git push
 			
 		index.html	 --------------> index.html	 --------------> Index.html_v1.1	----------------->	Index.html_v1.1
-						git add 				   git commit                         	 git push                      
+				git add 				   git commit                         	 git push                      
 	                                                                                                    
 		index.html	 --------------> index.html	 --------------> Index.html_v1.2	----------------->  Index.html_v1.2
-						git add 				   git commit                         	 git push                      
+				git add 				   git commit                         	 git push                      
                                                                                                         
 		index.html	 --------------> index.html	 --------------> Index.html_v1.3	----------------->  Index.html_v1.3
-						git add 				   git commit 						  	 git push
+				git add 				   git commit 			   git push
 						
 						
 	In Local Machine :
